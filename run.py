@@ -58,7 +58,7 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
 
     logger.info("Cloning or updating DN42 registry...")
-    git_clone_or_pull("git@git.dn42.dev:dn42/registry.git", "registry")
+    git_clone_or_pull("https://git.lantian.pub/backup/dn42-registry.git", "registry")
 
     logger.info("Parsing routes...")
     parse_routes("./data/route")
