@@ -1,0 +1,47 @@
+name: "Build"
+on:
+  workflow_dispatch:
+  schedule:
+    # rebuild everyday at 03:06
+    - cron:  '6 3 * * *'
+  push:
+    branches:
+      - main
+      - master
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      id-token: write
+    steps:
+
+    - name: Checkout repository
+      uses: actions/checkout@v5
+
+    - uses: DeterminateSystems/nix-installer-action@main
+    - uses: DeterminateSystems/flake-checker-action@main
+
+    - name: run build
+      run: ./run.py
+
+    - name: Upload build artifacts
+      run: |
+        set +e
+        mv {geofeed,ptr}.csv ..
+        git switch gh-pages
+        mv ../{geofeed,ptr}.csv .
+
+        git config --global user.name "$GITHUB_ACTOR"
+        git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
+        git show -s
+
+        git add .
+        git status
+        git commit -m "flake: update at $(date +'%Y-%m-%dT%H:%M:%S')" | exit 0
+        git push
