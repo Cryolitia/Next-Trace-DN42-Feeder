@@ -23,6 +23,8 @@ jobs:
 
     - name: Checkout repository
       uses: actions/checkout@v5
+      with:
+        fetch-depth: 0
 
     - uses: DeterminateSystems/nix-installer-action@main
     - uses: DeterminateSystems/flake-checker-action@main
