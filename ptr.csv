@@ -1,7 +1,7 @@
 AAA,PF,Iles-Tuamotu-Gambier,
 AAB,AU,Queensland,
 AAC,EG,North Sinai,El Arish
-AAD,SO,,Adado
+AAD,SO,Galguduud,Adado
 AAE,DZ,Annaba,Annabah
 AAF,US,Florida,Apalachicola
 AAG,BR,Paraná,Arapoti
@@ -37,8 +37,8 @@ ABJ,CI,Lagunes,Abidjan
 ABK,ET,,Kabri Dehar
 ABL,US,Alaska,Ambler
 ABM,AU,Queensland,
-ABN,SR,Marowijne,Albina
-ABO,CI,Sud-Comoe,Aboisso
+ABN,SR,,
+ABO,CI,Sud-Comoé,Aboisso
 ABP,PG,,
 ABQ,US,New Mexico,Albuquerque
 ABR,US,South Dakota,Aberdeen
@@ -55,7 +55,7 @@ ACB,US,Michigan,Bellaire
 ACC,GH,,Accra
 ACD,CO,Choco,Acandi
 ACE,ES,Canary-Islands,Lanzarote Island
-ACF,AU,Queensland,Brisbane
+ACF,CN,Xinjian Autonomous Region,Aral
 ACH,CH,Saint-Gallen,Altenrhein
 ACI,GG,Alderney,Saint Anne
 ACJ,LK,North Central Province,Anuradhapura
@@ -108,7 +108,7 @@ AEH,TD,Ouadai,
 AEI,ES,Andalusia,Algeciras
 AEK,PG,,
 AEL,US,Minnesota,Albert Lea
-AEM,RU,,
+AEM,RU,Primorsky Krai,Amgu
 AEO,MR,,Aioun El Atrouss
 AEP,AR,Buenos-Aires-F-D-,Buenos Aires
 AEQ,CN,Inner Mongolia,Tianshan
@@ -126,7 +126,7 @@ AFK,LK,,Ampara
 AFL,BR,Mato Grosso do Sul,Alta Floresta
 AFN,US,New Hampshire,Jaffrey
 AFO,US,Wyoming,Afton
-AFR,PG,,
+AFR,PG,Oro Province,Afore
 AFS,UZ,Navoiy,Zarafshan
 AFT,SB,Malaita,Bila
 AFW,US,Texas,Fort Worth
@@ -145,7 +145,7 @@ AGJ,JP,Okinawa,Aguni
 AGK,PG,,
 AGL,PG,Northern Province,
 AGM,GL,,
-AGN,US,,
+AGN,US,Alaska,Angoon
 AGO,US,Arkansas,Magnolia
 AGP,ES,Andalucía,Malaga
 AGQ,GR,West Greece,Agrinion
@@ -157,7 +157,7 @@ AGV,VE,Portuguesa,Acarigua
 AGW,AU,,
 AGX,IN,Lakshadweep,
 AGZ,ZA,Northern Cape,Aggeneys
-AHA,JP,,
+AHA,IN,Chhattisgarh,Ambikapur
 AHB,SA,,Abha
 AHC,US,California,Herlong
 AHD,US,Oklahoma,Ardmore
@@ -166,7 +166,7 @@ AHF,US,Nebraska,Arapahoe
 AHG,MU,Agalega-Islands,Vingt Cinq
 AHH,US,Wisconsin,Amery
 AHI,ID,Maluku,Amahai-Seram Island
-AHJ,CN,Sichuan,Qiongxi
+AHJ,CN,Sichuan,Hongyuan
 AHL,GY,Upper-Takutu-Upper-Essequibo,Aishalton
 AHM,US,Oregon,Ashland
 AHN,US,Georgia,Athens
@@ -190,7 +190,7 @@ AIM,MH,,
 AIN,US,Alaska,Wainwright
 AIO,US,Iowa,Atlantic
 AIP,IN,Punjab,
-AIR,BR,Minas Gerais,Aripuanã
+AIR,BR,Mato Grosso,Aripuanã
 AIS,KI,Gilbert-Islands,Arorae Island
 AIT,CK,,Aitutaki
 AIU,CK,,Atiu Island
@@ -213,7 +213,7 @@ AKA,CN,Shaanxi,Ankang
 AKB,US,Alaska,Atka
 AKC,US,Ohio,Akron
 AKD,IN,Maharashtra,
-AKE,GA,,
+AKE,GA,Haut-Ogooué,Akiéni
 AKF,LY,Al-Kufrah,Kufra
 AKG,PG,,
 AKH,SA,Ar-Riyaḑ,
@@ -231,7 +231,7 @@ AKS,SB,,Auki
 AKT,CY,,
 AKU,CN,Xinjiang,Aksu
 AKV,CA,Quebec,Akulivik
-AKW,IR,Khuzestan,
+AKW,IR,Khuzestan,Omidiyeh
 AKX,KZ,Aqtöbe,Aktyubinsk
 AKY,MM,Rakhine,Sittwe
 ALA,KZ,Almaty-Oblysy,Almaty
@@ -257,7 +257,7 @@ ALT,BR,Pará,Alenquer
 ALU,SO,Bari,Alula
 ALW,US,Washington,Walla Walla
 ALX,US,Alabama,Alexander City
-ALY,EG,,Alexandria
+ALY,EG,,
 ALZ,US,,
 AMA,US,Texas,Amarillo
 AMB,MG,,
@@ -322,14 +322,14 @@ AOI,IT,The Marches,Ancona
 AOJ,JP,Aomori,Aomori
 AOK,GR,South Aegean,Karpathos Island
 AOL,AR,Corrientes,Paso de los Libres
-AOM,OM,,
+AOM,OM,Ad Dakhiliyah,Adam
 AON,PG,,
 AOO,US,Pennsylvania,Altoona
 AOP,PE,Loreto,Andoas
 AOR,MY,,Alor Satar
 AOS,US,,
 AOT,IT,Aosta Valley,Aosta
-AOU,LA,Attapu,Attopeu
+AOU,LA,Attapu,Attapu
 AOY,IR,,Asaloyeh
 APA,US,Colorado,Denver
 APB,BO,La Paz,Apolo
@@ -340,7 +340,7 @@ APF,US,Florida,Naples
 APG,US,Maryland,Aberdeen Proving Grounds (Aberdeen)
 APH,US,Virginia,Bowling Green
 API,CO,Meta,Apiay
-APJ,CN,Ngari Prefecture,Burang
+APJ,CN,Tibet,Burang
 APK,PF,Iles-Tuamotu-Gambier,Apataki
 APL,MZ,Nampula,Nampula
 APN,US,Michigan,Alpena
@@ -423,7 +423,7 @@ ATC,BS,Cat-Island,Arthur's Town
 ATD,SB,,Atoifi
 ATE,US,Oklahoma,Antlers
 ATF,EC,Tungurahua,Ambato
-ATG,PE,Junin,Atalaya
+ATG,PK,Khyber Pakhtunkhwa,Akora
 ATH,GR,Attica,Athens
 ATI,UY,Artigas,Artigas
 ATJ,MG,,Antsirabe
@@ -520,7 +520,7 @@ AYE,US,Massachusetts,Ayer
 AYG,CO,Caqueta,San Vicente Del Caguan
 AYI,CO,,
 AYJ,IN,Uttar Pradesh,Ayodhya
-AYK,KZ,,Arkalyk
+AYK,KZ,Qostanay,Arkalyk
 AYL,AU,Northern Territory,
 AYM,AE,Abu Dhabi,Yas Island
 AYN,CN,Henan,Anyang
@@ -532,7 +532,7 @@ AYS,US,Georgia,Waycross
 AYT,TR,Antalya,Antalya
 AYU,PG,Eastern Highlands,Aiyura Valley
 AYW,ID,West Papua,Aifat
-AYX,PE,Junin,Puerto Ocopa
+AYX,PE,Junin,Atalaya
 AYY,LK,,
 AYZ,US,New York,Amityville
 AZA,US,Arizona,Phoenix
@@ -550,7 +550,7 @@ AZR,DZ,Adrar,
 AZS,DO,Maria-Trinidad-Sanchez,Samana
 AZT,CO,Santander,Betulia
 AZZ,AO,Bengo,Ambriz
-BAA,PG,,
+BAA,PG,West New Britain,Bialla
 BAB,US,California,Marysville
 BAC,CO,Meta,Barranca de Upia
 BAD,US,Louisiana,Bossier City
@@ -703,14 +703,14 @@ BFU,CN,Anhui,Bengbu
 BFV,TH,Buriram,
 BFW,DZ,Sidi-Bel-Abbes,
 BFX,CM,West,Bafoussam
-BFY,CN,,
+BFY,CN,Anhui,Bengbu
 BGA,CO,Santander,Bucaramanga
 BGB,GA,Ogooue-Ivindo,Booue
 BGC,PT,Bragança,Bragança
 BGD,US,Texas,Borger
 BGE,US,Georgia,Bainbridge
 BGF,CF,Ombella-M'Poko,Bangui
-BGG,TR,,
+BGG,TR,Bingöl,Bingöl
 BGH,MR,Brakna,Boghe
 BGI,BB,Christ-Church,Bridgetown
 BGJ,IS,East,Borgarfjordur eystri
@@ -736,14 +736,14 @@ BHC,PK,Punjab,Murree
 BHD,GB,Northern Ireland,Belfast
 BHE,NZ,Marlborough,Blenheim
 BHF,CO,Choco,Bahia Solano
-BHG,HN,Gracias-a-Dios,Brus Laguna
+BHG,HN,Gracias a Dios,Brus Laguna
 BHH,SA,,
 BHI,AR,Buenos-Aires,Bahia Blanca
 BHJ,IN,Gujarat,Bhuj
 BHK,UZ,,Bukhara
 BHL,MX,,
 BHM,US,Alabama,Birmingham
-BHN,YE,Shabwah,
+BHN,YE,Shabwah,Bayhan
 BHO,IN,Madhya Pradesh,Bhopal
 BHP,NP,Eastern Region,Bhojpur
 BHQ,AU,New South Wales,Broken Hill
@@ -776,7 +776,7 @@ BIQ,FR,Nouvelle-Aquitaine,Biarritz/Anglet/Bayonne
 BIR,NP,Eastern Region,Biratnagar
 BIS,US,North Dakota,Bismarck
 BIT,NP,Far-Western,Baitadi
-BIU,IS,Westfjords,Bildudalur
+BIU,IS,Westfjords,Bíldudalur
 BIV,CF,Haute-Kotto,Bria
 BIW,AU,Western Australia,
 BIX,US,Mississippi,Biloxi
@@ -789,7 +789,7 @@ BJD,IS,Northeast,Bakkafjordur
 BJE,SD,Southern Kordofan,Al Fulah
 BJF,NO,Finnmark,Båtsfjord
 BJG,ID,,
-BJH,NP,Far-Western,Bajhang
+BJH,NP,,
 BJI,US,Minnesota,Bemidji
 BJJ,US,Ohio,Wooster
 BJK,ID,Maluku,Maikoor Island
@@ -821,7 +821,7 @@ BKJ,GN,Boke,Boke
 BKK,TH,Samut-Prakan,Bangkok
 BKL,US,Ohio,Cleveland
 BKM,MY,Sarawak,Bakalalan
-BKN,TM,Balkan,Balkanabat
+BKN,TM,Balkan,Jebel
 BKO,ML,Bamako,Senou
 BKP,AU,Queensland,
 BKQ,AU,Queensland,Blackall
@@ -848,7 +848,7 @@ BLK,GB,England,Blackpool
 BLL,DK,South Denmark,Billund
 BLM,US,New Jersey,Belmar/Farmingdale
 BLN,AU,Victoria,
-BLO,IS,Northwest,Blonduos
+BLO,IS,Northwest,Blönduós
 BLP,PE,San Martin,Bellavista
 BLQ,IT,Emilia Romagna,Bologna
 BLR,IN,Karnataka,Bangalore
@@ -1082,7 +1082,7 @@ BVA,FR,Hauts-de-France,Beauvais/Tille
 BVB,BR,Roraima,Boa Vista
 BVC,CV,Boa-Vista,Rabil
 BVD,US,,
-BVE,FR,Nouvelle-Aquitaine,Limousin
+BVE,FR,Nouvelle-Aquitaine,Nespouls
 BVF,FJ,,
 BVG,NO,Finnmark,Berlevåg
 BVH,BR,Rondônia,Vilhena
@@ -1137,12 +1137,12 @@ BXL,FJ,,
 BXM,ID,,
 BXN,TR,Mugla,Bodrum
 BXO,CH,Nidwalden,Buochs
-BXP,PL,Lublin,Biala Podlaska
+BXP,PL,Lublin Voivodeship,Biala Podlaska
 BXR,IR,Kerman,
 BXS,US,California,Borrego Springs
 BXT,ID,East Kalimantan,Bontang-Borneo Island
 BXU,PH,Caraga,Butuan City
-BXV,IS,East,Breiddalsvik
+BXV,IS,East,Breiðdalsvík
 BXW,ID,East Java,Paloh
 BXX,SO,Awdal,Baki
 BXY,KZ,Baikonur,Baikonur
@@ -1160,9 +1160,9 @@ BYK,CI,Vallee-du-Bandama,
 BYL,LR,,
 BYM,CU,Granma,Bayamo
 BYN,MN,Bayanhongor,Bayankhongor
-BYO,BR,Mato-Grosso-do-Sul,Bonito
+BYO,BR,Mato Grosso do Sul,Bonito
 BYP,AU,Western Australia,
-BYQ,ID,North Kalimantan,Bunju Island
+BYQ,ID,,
 BYR,DK,North Denmark,Laeso
 BYS,US,California,Fort Irwin/Barstow
 BYT,IE,Munster,Bantry
@@ -1235,7 +1235,7 @@ CBL,VE,Bolivar,
 CBM,US,Mississippi,Columbus
 CBN,ID,West Java,Cirebon-Java Island
 CBO,PH,ARMM,Cotabato City
-CBP,PT,Coimbra,Antanhol
+CBP,PT,Coimbra,Coimbra
 CBQ,NG,Cross-River,Calabar
 CBR,AU,ACT,Canberra
 CBS,VE,Zulia,Cabimas
@@ -1276,7 +1276,7 @@ CDA,AU,Northern Territory,
 CDB,US,Alaska,Cold Bay
 CDC,US,Utah,Cedar City
 CDD,HN,Gracias-a-Dios,Cauquira
-CDE,PA,Embera,Corozal
+CDE,CN,Hebei,Chengde
 CDG,FR,Ile-de-France,Paris
 CDH,US,Arkansas,Camden
 CDI,BR,Espírito Santo,Cachoeiro Do Itapemirim
@@ -1305,7 +1305,7 @@ CEG,GB,Wales,Hawarden
 CEH,MW,Northern Region,
 CEI,TH,Chiang-Rai,Chiang Rai
 CEK,RU,Chelyabinsk,Chelyabinsk
-CEL,BS,,
+CEL,BR,Rio Grande do Sul,Canela
 CEM,US,Alaska,Central
 CEN,MX,Sonora,Ciudad Obregon
 CEO,AO,Benguela,Waco Kungo
@@ -1322,12 +1322,12 @@ CEY,US,Kentucky,Murray
 CEZ,US,Colorado,Cortez
 CFA,US,,
 CFB,BR,Rio de Janeiro,Cabo Frio
-CFC,BR,Santa Catarina,Cacador
+CFC,BR,Santa Catarina,Caçador
 CFD,US,Texas,Bryan
 CFE,FR,Auvergne-Rhone-Alpes,Clermont-Ferrand/Auvergne
 CFF,AO,Luanda-Norte,Cafunfo
 CFG,CU,Cienfuegos,Cienfuegos
-CFH,AU,,
+CFH,AU,South Australia,Clifton Hills Station
 CFI,AU,Northern Territory,
 CFK,DZ,Chlef,Chlef
 CFM,CA,,
@@ -1342,7 +1342,7 @@ CFU,GR,Ionian-Islands,Kerkyra Island
 CFV,US,Kansas,Coffeyville
 CGA,US,Alaska,Craig
 CGB,BR,Mato Grosso do Sul,Cuiaba
-CGC,PG,,
+CGC,PG,West New Britain,Cape Gloucester
 CGD,CN,Hunan,Changde
 CGE,US,Maryland,Cambridge
 CGF,US,Ohio,Cleveland
@@ -1351,18 +1351,18 @@ CGH,BR,São Paulo,Sao Paulo
 CGI,US,Missouri,Cape Girardeau
 CGJ,ZM,Copperbelt,Kasompe
 CGK,ID,,Jakarta
-CGL,PE,,
+CGL,PE,La Libertad,Chagual
 CGM,PH,Northern Mindanao,
 CGN,DE,Nordrhein-Westfalen,Cologne
 CGO,CN,Henan,Zhengzhou
 CGP,BD,Chittagong,Chittagong
 CGQ,CN,Jilin,Changchun
-CGR,BR,Mato-Grosso-do-Sul,Campo Grande
+CGR,BR,Mato Grosso do Sul,Campo Grande
 CGS,US,Maryland,College Park
 CGT,MR,Adrar,Chinguetti
 CGV,AU,Western Australia,
 CGX,US,,
-CGY,PH,Northern Mindanao,Cagayan de Oro
+CGY,PH,Northern Mindanao,Laguindingan
 CGZ,US,Arizona,Casa Grande
 CHA,US,Tennessee,Chattanooga
 CHB,PK,Gilgit-Baltistan,Chilas
@@ -1481,10 +1481,10 @@ CMC,BR,Ceará,Camocim
 CMD,AU,New South Wales,
 CME,MX,Campeche,Ciudad del Carmen
 CMF,FR,Auvergne-Rhone-Alpes,Chambery/Aix-les-Bains
-CMG,BR,Mato-Grosso-do-Sul,Corumba
+CMG,BR,Mato Grosso do Sul,Corumba
 CMH,US,Ohio,Columbus
 CMI,US,Illinois,Champaign/Urbana
-CMJ,TW,,
+CMJ,TW,Penghu,Qimei
 CMK,MW,Southern Region,Club Makokola
 CML,AU,Queensland,
 CMM,GT,Peten,Carmelita
@@ -1553,7 +1553,7 @@ COW,CL,Coquimbo,Coquimbo
 COX,BS,South Andros,Andros
 COY,AU,Western Australia,
 COZ,DO,La Vega,Costanza
-CPA,LR,Maryland,Harper
+CPA,LR,Maryland,Harper City
 CPB,CO,Choco,Capurgana
 CPC,AR,Neuquen,Chapelco/San Martin de los Andes
 CPD,AU,South Australia,
@@ -1625,11 +1625,11 @@ CSO,DE,Sachsen-Anhalt,Magdeburg
 CSP,US,,
 CSQ,US,Iowa,Creston
 CSR,CO,,
-CSS,BR,Mato-Grosso-do-Sul,Cassilandia
+CSS,BR,Mato Grosso do Sul,Cassilandia
 CST,FJ,Western,Lautoka
 CSU,BR,Rio Grande do Sul,Santa Cruz Do Sul
 CSV,US,Tennessee,Crossville
-CSW,BR,,
+CSW,MX,Baja California Sur,Cabo San Lucas
 CSX,CN,Hunan,Changsha
 CSY,RU,Chuvashia,Cheboksary
 CSZ,AR,Buenos-Aires,Coronel Suarez
@@ -1769,7 +1769,7 @@ CZR,RU,,
 CZS,BR,Distrito Federal,Cruzeiro Do Sul
 CZT,US,Texas,Carrizo Springs
 CZU,CO,Sucre,Corozal
-CZW,PL,Silesia,Częstochowa
+CZW,PL,Silesian Voivodeship,Czestochowa
 CZX,CN,Jiangsu,Changzhou
 CZY,AU,Queensland,
 CZZ,US,Colorado,Springfield
@@ -1777,7 +1777,6 @@ DAA,US,Virginia,Fort Belvoir
 DAB,US,Florida,Daytona Beach
 DAC,BD,Dhaka,Dhaka
 DAD,VN,Da-Nẵng,Da Nang
-DAE,IN,Arunachal Pradesh,
 DAF,PG,,
 DAG,US,California,Daggett
 DAH,YE,Abyan,Mudiyah
@@ -1786,8 +1785,8 @@ DAK,EG,New Valley,
 DAL,US,Texas,Dallas
 DAM,SY,Rif-dimashq,Damascus
 DAN,US,Virginia,Danville
-DAO,PG,,
-DAP,NP,Far-Western,Darchula
+DAO,PG,Western,Dabo
+DAP,NP,Western Region,Darchula
 DAR,TZ,Dar-es-Salaam,Dar es Salaam
 DAS,CA,Northwest Territories,Great Bear Lake
 DAT,CN,Shanxi,Datong
@@ -1804,7 +1803,7 @@ DBK,LK,North Western,Puttalam
 DBM,ET,Amhara,Debra Marcos
 DBN,US,Georgia,Dublin
 DBO,AU,New South Wales,Dubbo
-DBP,PG,,
+DBP,PG,Western,Debepare
 DBQ,US,Iowa,Dubuque
 DBR,IN,Bihar,
 DBS,US,Idaho,Dubois
@@ -1841,11 +1840,12 @@ DEE,RU,Sakhalin,Kunashir Island
 DEF,IR,Khuzestan,
 DEH,US,Iowa,Decorah
 DEI,SC,,Denis Island
+DEJ,CN,Guizhou,Deijan
 DEL,IN,Delhi,New Delhi
 DEM,ET,,Dembidollo
 DEN,US,Colorado,Denver
 DEO,US,Michigan,Melvindale
-DEP,IN,,
+DEP,IN,Arunachal Pradesh,Daporijo
 DEQ,CN,Zhejiang,Deqing
 DER,PG,Morobe,Derim
 DES,SC,,Desroches Island
@@ -1856,7 +1856,7 @@ DFA,CN,Shaanxi,Yaoshi
 DFI,US,Ohio,Defiance
 DFP,AU,Queensland,Drumduff
 DFW,US,Texas,Dallas-Fort Worth
-DGA,BZ,,
+DGA,BZ,Stann Creek,Dangriga
 DGB,US,,
 DGC,ET,Woqooyi Galbeed,Baligubadle
 DGD,AU,Western Australia,
@@ -1869,17 +1869,17 @@ DGL,US,Arizona,Douglas
 DGM,LK,Guangdong,Nancheng
 DGN,US,Virginia,Dahlgren
 DGO,MX,Durango,Durango
-DGP,LV,Daugavpils-municipality,Daugavpils
+DGP,LV,Daugavpils,Daugavpils
 DGR,NZ,Northland,
 DGT,PH,Central Visayas,Dumaguete City
 DGU,BF,,Dedougou
 DGW,US,Wyoming,Douglas
-DHA,SA,Eastern Province,
+DHA,SA,Eastern Province,Dammam
 DHB,US,,
 DHD,AU,Queensland,
 DHF,AE,Abu Dhabi,Al Bihouth
 DHG,RU,Primorskiy,Dal'negorsk
-DHH,CN,,
+DHH,CN,Xinjiang,Barkol
 DHI,NP,Far-Western,Dhangarhi
 DHL,YE,Ad Dali',Dhalie
 DHM,IN,Himachal Pradesh,
@@ -1915,7 +1915,7 @@ DJJ,ID,Papua,Jayapura-Papua Island
 DJM,CG,Plateaux,Djambala
 DJN,US,Alaska,Delta Junction
 DJO,CI,Sassandra-Marahoue,
-DJU,IS,East,Djupivogur
+DJU,IS,East,Djúpivogur
 DKA,NG,Katsina,Katsina
 DKI,AU,Queensland,
 DKK,US,New York,Dunkirk
@@ -1992,7 +1992,7 @@ DOO,PG,,
 DOP,NP,Mid-Western,Dolpa
 DOR,BF,Sahel,Dori
 DOS,PG,,
-DOU,BR,Mato-Grosso-do-Sul,Dourados
+DOU,BR,Mato Grosso do Sul,Dourados
 DOV,US,Delaware,Dover
 DOX,AU,Western Australia,
 DOY,CN,Shandong,Dongying
@@ -2081,10 +2081,10 @@ DVO,PH,Davao,Davao City
 DVP,AU,Queensland,
 DVR,AU,Northern Territory,
 DVT,US,Arizona,Phoenix
-DWA,MW,Central Region,Dwangwa
+DWA,MW,Central Region,Nkhotakota
 DWB,MG,,Soalala
 DWC,AE,Dubai,Jebel Ali
-DWD,SA,Ar-Riyaḑ,Dawadmi
+DWD,SA,Ar-Riyaḑ,Al Dawadmi
 DWF,US,Ohio,Kettering
 DWH,US,Texas,Houston
 DWN,US,,
@@ -2095,7 +2095,7 @@ DXB,AE,Dubai,Dubai
 DXD,AU,Queensland,New Dixie
 DXE,US,Mississippi,Madison
 DXJ,CN,,
-DXN,IN,Uttar Pradesh,Noida
+DXN,IN,Uttar Pradesh,Jewar
 DXR,US,Connecticut,Danbury
 DYA,AU,Queensland,
 DYG,CN,Hunan,Dayong
@@ -2106,22 +2106,23 @@ DYS,US,Texas,Abilene
 DYU,TJ,Dushanbe,Dushanbe
 DYW,AU,Northern Territory,Daly Waters
 DZA,YT,Pamandzi,Dzaoudzi
-DZH,CN,Sinjuan,Dazhou
+DZH,CN,Sichuan,Dazhou
 DZI,CO,Cesar,Agustin Codazzi
 DZN,KZ,Qaraghandy,Zhezkazgan
 DZO,UY,Durazno,Durazno
 DZU,CN,Chongqing Shi,Longgang
 EAA,US,Alaska,Eagle
-EAB,YE,Raymah,Al Hadiyah
+EAB,YE,Hajjah,Abs
 EAE,VU,,Sangafa
 EAL,MH,,
-EAM,SA,,
+EAM,SA,Najran,Nejran
 EAN,US,Wyoming,Wheatland
 EAP,CH,,Basel
 EAR,US,Nebraska,Kearney
 EAS,ES,País Vasco,Hondarribia
 EAT,US,Washington,Wenatchee
 EAU,US,Wisconsin,Eau Claire
+EAX,SR,Kwatta,Paramaribo
 EBA,IT,Tuscany,Marina  Di Campo
 EBB,UG,Central Region,Kampala
 EBD,SD,North Kordofan,Al-Ubayyid
@@ -2182,7 +2183,7 @@ EGM,SB,,Sege
 EGN,SD,Western Darfur,Geneina
 EGO,RU,Belgorod,Belgorod
 EGP,US,Texas,Eagle Pass
-EGS,IS,East,Egilsstadir
+EGS,IS,East,Egilsstaðir
 EGV,US,Wisconsin,Eagle River
 EGX,US,Alaska,Egegik
 EHL,AR,Rio-Negro,El Bolson
@@ -2387,7 +2388,7 @@ FAB,GB,England,Farnborough
 FAC,PF,Iles-Tuamotu-Gambier,
 FAE,FO,Vagar,Vagar
 FAF,US,Virginia,Fort Eustis
-FAG,IS,East,Fagurholsmyri
+FAG,IS,East,Fagurhólsmýri
 FAH,AF,Farah,Farah
 FAI,US,Alaska,Fairbanks
 FAJ,PR,Fajardo,Luis M. Cintron
@@ -2397,7 +2398,7 @@ FAM,US,Missouri,Farmington
 FAO,PT,Faro,Faro
 FAQ,PG,East Sepik,Frieda River
 FAR,US,North Dakota,Fargo
-FAS,IS,East,Faskrudsfjordur
+FAS,IS,East,Eskifjoerdur
 FAT,US,California,Fresno
 FAU,OM,Az̧-Z̧ahirah,Fahud
 FAV,PF,Iles-Tuamotu-Gambier,
@@ -2713,7 +2714,7 @@ GEL,BR,Rio Grande do Sul,Santo Angelo
 GEM,GQ,Wele-Nzas,Mongomo
 GEO,GY,Demerara-Mahaica,Georgetown
 GER,CU,Isla-de-la-Juventud,Nueva Gerona
-GES,PH,Soccsksargen,South Cotabato
+GES,PH,Soccsksargen,General Santos
 GET,AU,Western Australia,
 GEV,SE,Norrbotten,Gallivare
 GEW,PG,,
@@ -2775,13 +2776,13 @@ GIZ,SA,Jizan,Jizan
 GJA,HN,Bay-Islands,Guanaja
 GJL,DZ,Jijel,Jijel
 GJM,BR,Rondônia,Guajara-Mirim
-GJR,IS,Westfjords,Gjogur
+GJR,IS,Westfjords,Gjögur
 GJT,US,Colorado,Grand Junction
 GKA,PG,Eastern Highlands,Goronka
 GKD,TR,Canakkale,Gokceada
 GKE,DE,Nordrhein-Westfalen,
-GKH,NP,Western Region,Gorkha
-GKK,MV,Gaaf Alif,Kooddoo
+GKH,NP,Western Region,Lamjung
+GKK,MV,Gaafu Alifu Atoll,Kooddoo
 GKL,AU,Queensland,
 GKN,US,Alaska,Gulkana
 GKO,GA,Ogooue-Ivindo,Booue
@@ -2806,7 +2807,7 @@ GLQ,US,,
 GLR,US,Michigan,Gaylord
 GLS,US,Texas,Galveston
 GLT,AU,Queensland,Gladstone
-GLU,BT,Geylegphug,Sarpang
+GLU,BT,Sarpang,Gelephu
 GLV,US,Alaska,Golovin
 GLW,US,Kentucky,Glasgow
 GLX,ID,North Maluku,Galela-Celebes Island
@@ -2835,9 +2836,9 @@ GND,GD,Saint-George,Saint George's
 GNF,US,California,Quincy
 GNG,US,Idaho,Gooding
 GNI,TW,Taiwan,Lyudao
-GNJ,AZ,Goygol-Rayon,Ganja
+GNJ,AZ,Gəncə-City,Ganja
 GNM,BR,Bahia,Guanambi
-GNN,ET,Oromiya,Ghinnir
+GNN,ET,Oromiya,Ginir
 GNR,AR,Rio-Negro,General Roca
 GNS,ID,North Sumatra,Gunung Sitoli-Nias Island
 GNT,US,New Mexico,Grants
@@ -2904,7 +2905,7 @@ GRU,BR,São Paulo,Sao Paulo
 GRV,RU,Chechnya,Grozny
 GRW,PT,Açores,Santa Cruz da Graciosa
 GRX,ES,Andalucía,Granada
-GRY,IS,Northeast,Grimsey
+GRY,IS,Northeast,Grímsey
 GRZ,AT,Styria,Graz
 GSA,MY,Sabah,Long Miau
 GSB,US,North Carolina,Goldsboro
@@ -2937,9 +2938,9 @@ GTN,NZ,Canterbury,Glentanner Station
 GTO,ID,Gorontalo,Gorontalo-Celebes Island
 GTP,US,Oregon,Grants Pass
 GTR,US,Mississippi,Columbus/W Point/Starkville
-GTS,AU,Northern Territory,
+GTS,AU,Northern Territory,The Granites
 GTT,AU,Queensland,
-GTW,CZ,Zlin,Holesov
+GTW,CZ,Zlin,Otrokovice
 GTY,US,Pennsylvania,Gettysburg
 GTZ,TZ,Mara,Issenye
 GUA,GT,Guatemala,Guatemala City
@@ -2961,7 +2962,7 @@ GUQ,VE,Portuguesa,Guanare
 GUR,PG,Milne Bay,Gurney
 GUS,US,Indiana,Peru
 GUT,DE,Nordrhein-Westfalen,Gutersloh
-GUU,IS,West,Grundarfjordur
+GUU,IS,West,Grundarfjörður
 GUV,PG,Western Province,Mougulu
 GUW,KZ,Atyrau,Atyrau
 GUX,IN,Madhya Pradesh,
@@ -2986,18 +2987,18 @@ GWO,US,Mississippi,Greenwood
 GWS,US,Colorado,Glenwood Springs
 GWT,DE,Schleswig-Holstein,Westerland
 GWV,US,Louisiana,Bush
-GWY,IE,Connaught,Galway
+GWY,IE,Connaught,Gaillimh
 GXA,ID,,
 GXF,YE,Muḩafaz̧at-Ḩaḑramawt,Sayun
 GXG,AO,Uige,Negage
 GXH,CN,Gansu Sheng,Nawu
-GXM,ID,,
+GXM,ID,Central Kalimantan,Kuala Kurun
 GXQ,CL,Aisen,Coyhaique
 GXX,CM,Far-North,Yagoua
 GXY,US,Colorado,Greeley
 GYA,BO,Rondônia,Guayaramerin
 GYB,AU,Western Australia,Wodgina
-GYD,AZ,Baki,Baku
+GYD,AZ,Bakı,Baku
 GYE,EC,Guayas,Guayaquil
 GYG,RU,Chukot,Magan
 GYI,RW,Western Province,Gisenyi
@@ -3107,7 +3108,7 @@ HFA,IL,Haifa,Haifa
 HFD,US,Connecticut,Hartford
 HFE,CN,Anhui,Hefei
 HFF,US,North Carolina,Camp Mackall
-HFN,IS,East,Hornafjordur
+HFN,IS,East,Höfn
 HFS,SE,Vaermland,
 HFT,NO,Finnmark,Hammerfest
 HGA,SO,Woqooyi Galbeed,Hargeisa
@@ -3149,7 +3150,7 @@ HIP,AU,Queensland,
 HIR,SB,Guadalcanal,Honiara
 HIS,AU,,
 HIT,PG,,
-HIW,JP,Hiroshima,
+HIW,JP,Hiroshima,Hiroshima-shi
 HJB,CN,,
 HJJ,CN,Hunan,Huaihua
 HJR,IN,Madhya Pradesh,Khajuraho
@@ -3169,7 +3170,7 @@ HLA,ZA,Gauteng,Johannesburg
 HLB,US,Indiana,Batesville
 HLC,US,Kansas,Hill City
 HLD,CN,Inner Mongolia,Hailar
-HLE,SH,Saint Helena,Jamestown
+HLE,SH,Saint Helena,Saint Helena
 HLF,SE,Kalmar,
 HLG,US,West Virginia,Wheeling
 HLH,CN,Inner Mongolia,Ulanhot
@@ -3207,7 +3208,7 @@ HND,JP,Tokyo,Tokyo
 HNE,US,,
 HNG,NC,North Province,Hienghene
 HNH,US,Alaska,Hoonah
-HNI,PG,Enewetak Atoll,Enewetak
+HNI,CN,Guangxi,Hechi
 HNL,US,Hawaii,Honolulu
 HNM,US,Hawaii,Hana
 HNN,PG,,
@@ -3271,7 +3272,7 @@ HRY,AU,Northern Territory,
 HRZ,BR,Rio Grande do Sul,Horizontina
 HSA,KZ,Ongtuestik-Qazaqstan,Turkistan
 HSB,US,Illinois,Harrisburg
-HSC,CN,Guangdong,Xinshao
+HSC,CN,Guangdong,Shaoguan
 HSF,CN,Heilongjiang,Suifenhe
 HSG,JP,Saga,Saga
 HSH,US,Nevada,Las Vegas
@@ -3333,7 +3334,7 @@ HVB,AU,Queensland,Hervey Bay
 HVD,MN,Hovd,Khovd
 HVE,US,Utah,Hanksville
 HVG,NO,Finnmark,Honningsvåg
-HVK,IS,Westfjords,Holmavik
+HVK,IS,Westfjords,Hólmavík
 HVN,US,Connecticut,New Haven
 HVR,US,Montana,Havre
 HVS,US,South Carolina,Hartsville
@@ -3343,7 +3344,8 @@ HWI,US,,
 HWK,AU,South Australia,Hawker
 HWN,ZW,Matabeleland-North,Hwange
 HWO,US,Florida,Hollywood
-HXD,CN,Qinghai Sheng,Keluke
+HWR,IN,Punjab,Ludhiana
+HXD,CN,Qinghai,Delingha
 HXX,AU,New South Wales,
 HYA,US,Massachusetts,Hyannis
 HYC,GB,England,High Wycombe
@@ -3359,7 +3361,7 @@ HZA,AR,Buenos Aires,General Guido
 HZB,FR,Hauts-de-France,Merville/Calonne
 HZG,CN,Shaanxi,Hanzhong
 HZH,CN,Guizhou,
-HZK,IS,Northeast,Husavik
+HZK,IS,Northeast,Húsavík
 HZL,US,Pennsylvania,Hazleton
 HZP,CA,Alberta,Fort Mackay
 HZU,CN,Chengdu,Majialin Village
@@ -3419,7 +3421,7 @@ IEV,UA,Kyiv,Kyiv
 IFA,US,Iowa,Iowa Falls
 IFF,AU,Queensland,
 IFH,IR,Isfahan,Hesa
-IFJ,IS,Westfjords,Isafjordur
+IFJ,IS,Westfjords,Ísafjörður
 IFL,AU,Queensland,
 IFN,IR,Isfahan,Isfahan
 IFO,UA,Ivano-Frankivska oblast,Ivano-Frankivsk
@@ -3441,7 +3443,7 @@ IGT,RU,Ingushetiya,Magas
 IGU,BR,Paraná,Foz Do Iguacu
 IHA,JP,Tokyo,
 IHC,MZ,Maputo,Inhaca
-IHN,YE,Al-Mahrah,Qishn
+IHN,YE,Muhafazat Hadramawt,Ad Dis ash Sharqiyah
 IHO,MG,Ihorombe,Ihosy
 IHR,IR,Sistan-and-Baluchestan,
 IHU,PG,,
@@ -3455,6 +3457,7 @@ IJX,US,Illinois,Jacksonville
 IKA,IR,Tehran,Tehran
 IKB,US,North Carolina,North Wilkesboro
 IKE,RU,,
+IKG,KG,Issyk-Kul,Karakol
 IKI,JP,Nagasaki,Iki
 IKK,US,Illinois,Kankakee
 IKL,CD,Equateur,Ikela
@@ -3551,7 +3554,7 @@ IQT,PE,Loreto,Iquitos
 IRA,SB,,Kirakira
 IRB,US,Texas,Iraan
 IRC,US,Alaska,Circle
-IRD,BD,Rajshahi-Division,Ishurdi
+IRD,BD,Rajshahi,Ishurdi
 IRE,BR,Bahia,Irece
 IRG,AU,Queensland,
 IRI,TZ,Iringa,Nduli
@@ -3796,7 +3799,7 @@ JMY,SL,Western Area,Freetown
 JNA,BR,Minas Gerais,Januaria
 JNB,ZA,Gauteng,Johannesburg
 JNG,CN,Shandong,Jining
-JNH,US,Texas,Blue Mound
+JNH,CN,Zhejiang,Jiaxing
 JNI,AR,Buenos-Aires,Junin
 JNJ,OM,,
 JNN,GL,,
@@ -3888,7 +3891,7 @@ JWH,US,,
 JWL,US,Texas,The Woodlands
 JWN,IR,Zanjan,
 JWO,KR,North Chungcheong,
-JXA,CN,Heilongjiang Sheng,Hongjunlu
+JXA,CN,Heilongjiang,Jixi
 JXN,US,Michigan,Jackson
 JYR,IR,Kerman,
 JYV,FI,Central Finland,Jyvaskylan Maalaiskunta
@@ -3950,7 +3953,7 @@ KCB,SR,Sipaliwini,Kasikasima
 KCC,US,,
 KCD,ID,,
 KCE,AU,Queensland,
-KCF,PK,Sindh,Kot Diji
+KCF,PK,Sindh,Kadanwari
 KCG,US,Alaska,Chignik
 KCH,MY,Sarawak,Kuching
 KCI,ID,Lautem,Lospalos
@@ -4129,7 +4132,7 @@ KKU,US,Alaska,Ekuk
 KKW,CD,Kwilu,
 KKX,JP,Kagoshima,
 KKY,IE,Leinster,Kilkenny
-KKZ,KH,Koh Kong,Kaoh Kong
+KKZ,KH,Koh Kong,Koh Kong
 KLB,ZM,Western,Kalabo
 KLC,SN,Kaolack,Kaolack
 KLD,RU,Tverskaya,Tver
@@ -4184,7 +4187,7 @@ KNA,CL,Valparaiso,Vina Del Mar
 KNB,US,Utah,Kanab
 KND,CD,Maniema,Kindu
 KNE,PG,,
-KNF,GB,England,King's Lynn
+KNF,GB,England,Marham
 KNG,ID,,Kaimana-Papua Island
 KNH,TW,Fukien,Shang-I
 KNI,AU,Western Australia,
@@ -4258,7 +4261,7 @@ KQR,AU,,
 KQT,TJ,Khatlon,Kurgan-Tyube
 KRA,AU,Victoria,
 KRB,AU,Queensland,
-KRC,ID,Jambi,Siulakderasmudik
+KRC,ID,Jambi,Sungai Penuh
 KRD,AU,,
 KRE,BI,Kirundo,Kirundo
 KRF,SE,Vaesternorrland,Kramfors / Solleftea
@@ -4418,10 +4421,10 @@ KYU,US,Alaska,Koyukuk
 KYX,PG,,
 KYZ,RU,Republic-of-Tyva,Kyzyl
 KZB,US,,
-KZC,KH,Kampong Chhnang,
+KZC,KH,Kampong Chhnang,Kampong Chhnang
 KZD,KH,Pursat,Pursat
 KZF,PG,Gulf,Kaintiba
-KZG,DE,Bayern,
+KZG,DE,Bayern,Kitzingen
 KZH,US,,
 KZI,GR,West Macedonia,Kozani
 KZN,RU,Tatarstan,Kazan
@@ -4591,6 +4594,7 @@ LHE,PK,Punjab,Lahore
 LHG,AU,New South Wales,
 LHI,ID,Papua,Lereh-Papua Island
 LHK,CN,Hubei,Guanghua
+LHL,AZ,Laçın,Lachın
 LHN,TW,Taiwan,Hualian
 LHP,PG,,
 LHR,GB,England,London
@@ -4613,7 +4617,7 @@ LIM,PE,Callao,Lima
 LIN,IT,Lombardy,Milan
 LIO,CR,Limon,Puerto Limon
 LIP,BR,São Paulo,Lins
-LIQ,CD,Equateur,
+LIQ,CD,Mongola,Lisala
 LIR,CR,Guanacaste,Liberia
 LIS,PT,Lisbon,Lisbon
 LIT,US,Arkansas,Little Rock
@@ -4763,6 +4767,7 @@ LPU,ID,East Kalimantan,Long Apung-Borneo Island
 LPW,US,,
 LPX,LV,Grobina,Liepaja
 LPY,FR,Auvergne-Rhone-Alpes,Le Puy/Loudes
+LPZ,CO,Santander,San Gil
 LQK,US,South Carolina,Pickens
 LQM,CO,Putumayo,Puerto Leguizamo
 LQN,AF,Badghis,Qala-I-Naw
@@ -4792,6 +4797,7 @@ LSC,CL,Coquimbo,La Serena-Coquimbo
 LSD,US,Kentucky,Mount Vernon
 LSE,US,Wisconsin,La Crosse
 LSF,US,Georgia,Fort Moore (Columbus)
+LSG,CN,Sichuan,Leshan
 LSH,MM,Shan,Lashio
 LSI,GB,Scotland,Lerwick
 LSJ,PG,,
@@ -4840,7 +4846,7 @@ LUD,NA,Karas,Luderitz
 LUE,SK,Banskobystricky,Lucenec
 LUF,US,Arizona,Glendale
 LUG,CH,Ticino,Lugano
-LUH,IN,Punjab,
+LUH,IN,Punjab,Ludhiana
 LUI,HN,La Union,La Union
 LUK,US,Ohio,Cincinnati
 LUL,US,Mississippi,Laurel
@@ -4986,7 +4992,7 @@ MCM,MC,Commune de Monaco,Monaco
 MCN,US,Georgia,Macon
 MCO,US,Florida,Orlando
 MCP,BR,Amapá,Macapa
-MCQ,HU,Borsod-Abauj-Zemplen,Miskolc
+MCQ,HU,Borsod-Abauj-Zemplen,Arnot
 MCR,GT,Peten,Melchor de Mencos
 MCS,AR,Corrientes,Monte Caseros
 MCT,OM,Muscat,Muscat
@@ -5171,7 +5177,7 @@ MJR,AR,Buenos-Aires,Miramar
 MJS,MZ,Maputo,Ressano Garcia
 MJT,GR,North Aegean,Mytilene
 MJU,ID,West Sulawesi,Mamuju-Celebes Island
-MJV,ES,Región de Murcia,San Javier
+MJV,ES,Murcia,San Javier
 MJW,ZW,Masvingo,Chiredzi
 MJX,US,New Jersey,Toms River
 MJY,ID,South Sumatra,Babat
@@ -5362,7 +5368,7 @@ MRD,VE,Merida,Merida
 MRE,KE,Narok,Masai Mara
 MRF,US,Texas,Marfa
 MRG,AU,Queensland,
-MRH,GB,England,Marham
+MRH,PG,,
 MRI,US,Alaska,Anchorage
 MRJ,HN,La Paz,Marcala
 MRK,US,Florida,Marco Island
@@ -5445,6 +5451,7 @@ MUI,US,Pennsylvania,Fort Indiantown Gap (Annville)
 MUJ,ET,"Southern Nations, Nationalities, and People's Region",Mizan Teferi
 MUK,CK,,Mauke Island
 MUL,US,Georgia,Moultrie
+MUM,MV,Meemu Atoll,Malé
 MUN,VE,Anzoategui,
 MUO,US,Idaho,Mountain Home
 MUP,AU,Northern Territory,
@@ -5457,7 +5464,7 @@ MUW,DZ,Mascara,
 MUX,PK,Punjab,Multan
 MUY,CG,Bouenza,Mouyondzi
 MUZ,TZ,Mara,Musoma
-MVA,IS,Northeast,Myvatn
+MVA,IS,Northeast,Reykjahlíð
 MVB,GA,Haut-Ogooue,Franceville
 MVC,US,Alabama,Monroeville
 MVD,UY,Canelones,Montevideo
@@ -5504,7 +5511,7 @@ MWR,ZA,,
 MWS,US,California,Sierra Madre
 MWT,AU,South Australia,
 MWU,PG,,
-MWV,KH,Mondolkiri,Sen Monorom
+MWV,KH,Mondolkiri,Senmonourom
 MWX,KR,Jeollanam-do,
 MWY,AU,New South Wales,
 MWZ,TZ,Mwanza,Mwanza
@@ -5525,7 +5532,7 @@ MXN,FR,Brittany,Morlaix/Ploujean
 MXO,US,Iowa,Monticello
 MXP,IT,Lombardy,Milan
 MXQ,BR,Bahia,Cairu
-MXR,UA,Poltava,Myrhorod
+MXR,UA,Poltava Oblast,Myrhorod
 MXS,WS,,Maota
 MXT,MG,Melaky,Maintirano
 MXU,AU,Western Australia,
@@ -5594,7 +5601,7 @@ NAF,ID,North Kalimantan,Long Beluah
 NAG,IN,Maharashtra,Naqpur
 NAH,ID,North Sulawesi,Tahuna-Sangihe Island
 NAI,GY,Upper-Takutu-Upper-Essequibo,Annai
-NAJ,AZ,Nakhichevan,Nakhchivan
+NAJ,AZ,Naxçıvan Muxtar Respublikası,Nakhchivan
 NAK,TH,Nakhon-Ratchasima,
 NAL,RU,Kabardino-Balkariya,Nalchik
 NAM,ID,Maluku,Namlea-Buru Island
@@ -5671,7 +5678,7 @@ NEN,US,Florida,Jacksonville
 NER,RU,Chukot,Chulman
 NES,US,,
 NET,BS,,
-NEU,LA,Houaphan,
+NEU,LA,Houaphan,Nong Khang
 NEV,KN,Saint-James-Windwa,Charlestown
 NEW,US,Louisiana,New Orleans
 NFB,US,Michigan,Capac
@@ -5696,7 +5703,7 @@ NGR,PG,,
 NGS,JP,Nagasaki,Nagasaki
 NGU,US,Virginia,Norfolk
 NGW,US,Texas,Corpus Christi
-NGX,NP,Western Region,Ngawal
+NGX,NP,Central Region,Kathmandu
 NGZ,US,California,Alameda
 NHA,VN,Khanh Hoa,Nha Trang
 NHD,AE,Dubai,Dubai
@@ -5768,7 +5775,7 @@ NMC,BS,Black-Point,
 NME,US,Alaska,Nightmute
 NMF,MV,Noonu,Maafaru
 NMG,PA,Darien,La Palma
-NMI,IN,,
+NMI,IN,Maharashtra,Navi Mumbai
 NML,CA,Alberta,Fort McMurray
 NMN,PG,,
 NMP,AU,,
@@ -5803,7 +5810,7 @@ NOM,PG,,
 NON,KI,Gilbert-Islands,Nonouti
 NOO,PG,,
 NOP,TR,Sinop,Sinop
-NOR,IS,East,Nordfjordur
+NOR,IS,East,Norðfjörður
 NOS,MG,Diana,Nosy Be
 NOT,US,California,Novato
 NOU,NC,South Province,Noumea
@@ -5876,7 +5883,7 @@ NTQ,JP,Ishikawa,Wajima
 NTR,MX,Nuevo Leon,
 NTT,TO,Niuas,Niuatoputapu
 NTU,US,Virginia,Virginia Beach
-NTX,ID,Riau-Islands,Ranai-Natuna Besar Island
+NTX,ID,Riau Islands,Ranai-Natuna Besar Island
 NTY,ZA,North West,Pilanesberg
 NUA,LK,Central,Nuwara Eliya
 NUB,AU,Northern Territory,
@@ -6007,7 +6014,7 @@ OER,SE,Vaesternorrland,Ornskoldsvik
 OES,AR,Rio-Negro,San Antonio Oeste
 OFF,US,Nebraska,Omaha
 OFI,CI,,Ouango Fitini
-OFJ,IS,Northeast,Olafsfjordur
+OFJ,IS,Northeast,Ólafsfjörður
 OFK,US,Nebraska,Norfolk
 OFU,AS,Manu'a,Ofu
 OGA,US,Nebraska,Ogallala
@@ -6104,7 +6111,7 @@ OMJ,JP,Nagasaki,Omura
 OMK,US,Washington,Omak
 OML,PG,Chimbu,Kundiawa
 OMM,OM,Dhofar,Marmul
-OMN,UZ,,
+OMN,UZ,Jizzax,Lyaylyakul
 OMO,BA,Federation-of-B&H,Mostar
 OMR,RO,Bihor,Oradea
 OMS,RU,Omsk,Omsk
@@ -6137,7 +6144,7 @@ OOL,AU,Queensland,Gold Coast
 OOM,AU,New South Wales,Cooma
 OOR,AU,Queensland,
 OOT,KI,Gilbert-Islands,Onotoa
-OPA,IS,Northeast,Kopasker
+OPA,IS,Northeast,Kópasker
 OPB,PG,,
 OPF,US,Florida,Miami
 OPI,AU,Northern Territory,
@@ -6147,6 +6154,7 @@ OPP,BR,Pará,Salinopolis
 OPS,BR,Mato Grosso do Sul,Sinop
 OPU,PG,Western Province,Balimo
 OPW,,Kunene,Opuwo
+OQN,UZ,Fergana,Kokand
 ORA,AR,Salta,Oran
 ORB,SE,Oerebro,Orebro
 ORC,CO,Casanare,Orocue
@@ -6195,7 +6203,7 @@ OSU,US,Ohio,Columbus
 OSW,RU,Orenburg,Orsk
 OSX,US,Mississippi,Kosciusko
 OSY,NO,Nor-Trøndelag,Namsos
-OSZ,PL,West Pomerania,
+OSZ,PL,West Pomeranian Voivodeship,Tychowo
 OTA,ET,Amhara,Addiet Canna
 OTC,TD,Lac,Bol
 OTD,PA,Panama,Veracruz
@@ -6272,7 +6280,7 @@ OZP,ES,Andalucía,Moron
 OZR,US,Alabama,Fort Novosel (Ozark)
 OZU,ES,Andalusia,Montilla
 OZZ,MA,Draa-Tafilalet,Ouarzazate
-PAA,MM,Kayin,Hpa-N
+PAA,MM,Kayin,Hpa-an
 PAB,IN,Chhattisgarh,
 PAC,PA,Panama,Albrook
 PAD,DE,Nordrhein-Westfalen,Paderborn
@@ -6294,11 +6302,11 @@ PAT,IN,Bihar,Patna
 PAU,MM,Magway,Pauk
 PAV,BR,Bahia,Paulo Afonso
 PAW,PG,,
-PAX,HT,Nord-Ouest,Port-de-Paix
+PAX,HT,Nord-Ouest,Ti Port-de-Paix
 PAY,MY,Sabah,Pamol
 PAZ,MX,Veracruz,Poza Rica
-PBA,US,,
-PBB,BR,Mato-Grosso-do-Sul,Paranaiba
+PBA,BR,Bahia,Cairu
+PBB,BR,Mato Grosso do Sul,Paranaiba
 PBC,MX,Puebla,Puebla
 PBD,IN,Gujarat,Porbandar
 PBE,CO,Antioquia,Puerto Berrio
@@ -6338,7 +6346,7 @@ PCM,MX,Quintana Roo,Playa del Carmen
 PCN,NZ,Marlborough,Picton
 PCO,MX,Baja California Sur,La Ribera
 PCP,ST,Principe,
-PCQ,LA,Phongsali,Phongsali
+PCQ,LA,Phongsaly,Boun Neau
 PCR,CO,Vichada,Puerto Carreno
 PCS,BR,Piauí,Picos
 PCT,US,New Jersey,Princeton/Rocky Hill
@@ -6350,12 +6358,12 @@ PDC,NC,,Mueo
 PDD,MZ,Maputo,Ponta do Ouro
 PDE,AU,South Australia,
 PDF,BR,Bahia,Prado
-PDG,ID,Ketaping,Ketaping/Padang-Sumatra Island
+PDG,ID,West Sumatra,Ketaping/Padang-Sumatra Island
 PDI,PG,Morobe,Pindiu
 PDK,US,Georgia,Atlanta
 PDL,PT,Açores,Ponta Delgada
 PDM,PA,Los Santos,Pedasi
-PDN,AU,,
+PDN,AU,South Australia,Parndana
 PDO,ID,South Sumatra,Talang Gudang-Sumatra Island
 PDP,UY,Maldonado,Punta del Este
 PDR,BR,Maranhao,Presidente Dutra
@@ -6393,7 +6401,7 @@ PFA,US,,
 PFB,BR,Rio Grande do Sul,Passo Fundo
 PFC,US,Oregon,Pacific City
 PFD,US,,
-PFJ,IS,Westfjords,Patreksfjordur
+PFJ,IS,,
 PFM,CA,,
 PFN,US,Florida,Pretty Bayou
 PFO,CY,Pafos,Paphos
@@ -6417,7 +6425,7 @@ PGP,ST,,
 PGQ,ID,Maluku Utara,Buli
 PGR,US,Arkansas,Paragould
 PGS,US,Arizona,Peach Springs
-PGU,IR,Bushehr,Asalouyeh
+PGU,IR,Bushehr,Bandar-e `Asaluyeh
 PGV,US,North Carolina,Greenville
 PGX,FR,Nouvelle-Aquitaine,Perigueux/Bassillac
 PGZ,BR,Paraná,Ponta Grossa
@@ -6502,7 +6510,7 @@ PKY,ID,Central Kalimantan,Palangkaraya-Kalimantan Tengah
 PKZ,LA,Champasak,Pakse
 PLA,CO,Tolima,Planadas
 PLC,CO,Cordoba,Planeta Rica
-PLD,CR,Guanacaste,Playa Samara
+PLD,CR,Guanacaste,Nicoya
 PLE,PG,,
 PLF,TD,Mayo-Kebbi-Ouest,Pala
 PLH,GB,England,Plympton
@@ -6513,7 +6521,7 @@ PLL,BR,Amazonas,Manaus
 PLM,ID,South Sumatra,Palembang-Sumatra Island
 PLN,US,Michigan,Pellston
 PLO,AU,South Australia,Port Lincoln
-PLP,PA,Darien,La Palma
+PLP,PA,Darien,Seteganti
 PLQ,LT,,Palanga
 PLR,US,Alabama,Pell City
 PLS,TC,,Providenciales Island
@@ -6530,7 +6538,7 @@ PMC,CL,Los-Lagos,Puerto Montt
 PMD,US,California,Palmdale
 PME,GB,England,Portsmouth
 PMF,IT,Emilia Romagna,Parma
-PMG,BR,Mato-Grosso-do-Sul,Ponta Pora
+PMG,BR,Mato Grosso do Sul,Ponta Pora
 PMH,US,Ohio,Portsmouth
 PMI,ES,Islas Baleares,Palma De Mallorca
 PMK,AU,Queensland,
@@ -6561,6 +6569,7 @@ PNI,FM,,Pohnpei Island
 PNJ,CN,Shandong Sheng,Nanwang
 PNK,ID,West Kalimantan,Pontianak-Borneo Island
 PNL,IT,Sicily,Pantelleria
+PNM,PE,Cusco,Nuevo Mundo
 PNN,US,Maine,Princeton
 PNO,MX,Oaxaca,Santiago Pinotepa Nacional
 PNP,PG,Northern Province,Popondetta
@@ -6790,12 +6799,12 @@ PYT,BR,,Paracatu
 PYV,PA,Darien,Yaviza
 PYX,TH,Chon Buri,Phatthaya
 PYY,TH,Mae-Hong-Son,Mae Hong Son
-PYZ,PE,,
+PYZ,PE,La Libertad,Pataz
 PZA,CO,Casanare,Paz De Ariporo
 PZB,ZA,KwaZulu-Natal,Pietermaritzburg
 PZE,GB,England,Penzance
 PZH,PK,Balochistan,Fort Sandeman
-PZI,CN,Sichuan,Renhe
+PZI,CN,Sichuan,Panzhihua
 PZK,CK,Manu'a,Faleasao
 PZL,ZA,KwaZulu-Natal,Phinda
 PZO,VE,Bolivar,Puerto Ordaz-Ciudad Guayana
@@ -6808,9 +6817,10 @@ QAK,BR,Minas Gerais,Barbacena
 QAQ,IT,Abruzzo,L'Aquila
 QBC,CA,British Columbia,Bella Coola
 QBX,BR,Ceará,Sobral
+QCB,DE,Bavaria,Bamberg
 QCH,BR,Espírito Santo,Colatina
 QCJ,BR,São Paulo,Botucatu
-QCN,BR,Rio Grande do Sul,Canela
+QCN,DE,Schleswig-Holstein,Hohn
 QCO,CU,Matanzas,Colon
 QCP,BR,Rio Grande do Norte,Currais Novos
 QCR,BR,Santa Catarina,Curitibanos
@@ -6847,7 +6857,7 @@ QJE,GL,,
 QJI,GL,,
 QKS,US,Pennsylvania,Elk Lick Township
 QKU,DE,North Rhine-Westphalia,Altstadt Nord
-QLR,PT,Leiria,Monte Real
+QLR,PT,Leiria,Leiria
 QLS,CH,Vaud,Lausanne
 QLU,PL,Lublin Voivodeship,Swidnik
 QLV,DE,North Rhine-Westphalia,Leverkusen
@@ -6928,7 +6938,7 @@ RBF,US,California,Big Bear City
 RBG,US,Oregon,Roseburg
 RBH,US,,
 RBI,FJ,Hawaii,Kekaha
-RBJ,JP,Hokkaido,
+RBJ,JP,,
 RBK,US,California,Murrieta/Temecula
 RBL,US,California,Red Bluff
 RBM,DE,Bayern,Straubing
@@ -7004,7 +7014,7 @@ RFA,CF,Mbomou,Rafai
 RFD,US,Illinois,Chicago/Rockford
 RFG,US,Texas,Refugio
 RFK,US,Mississippi,Rolling Fork
-RFN,IS,Northeast,Raufarhofn
+RFN,IS,Northeast,Raufarhöfn
 RFP,PF,Leeward-Islands,Uturoa
 RFR,CR,Heredia,Rio Frio / Progreso
 RFS,NI,Atlantico-Norte-(RAAN),La Rosita
@@ -7018,7 +7028,7 @@ RGN,MM,Yangon,Yangon
 RGO,KP,Hamgyong-bukto,
 RGR,US,Texas,Ranger
 RGS,ES,Castilla y León,Burgos
-RGT,ID,Riau-Islands,Rengat-Sumatra Island
+RGT,ID,Riau Islands,Rengat-Sumatra Island
 RHA,IS,Westfjords,Reykholar
 RHD,AR,Santiago-del-Estero,Rio Hondo
 RHE,FR,Grand Est,Reims/Champagne
@@ -7147,7 +7157,7 @@ ROW,US,New Mexico,Roswell
 ROX,US,Minnesota,Roseau
 ROY,AR,Chubut,Rio Mayo
 ROZ,ES,Andalucía,Rota
-RPA,NP,Mid-Western,Rolpa
+RPA,NP,Eastern Region,Dhankuta
 RPB,AU,Northern Territory,
 RPM,AU,Northern Territory,
 RPN,IL,Northern District,Rosh Pina
@@ -7178,7 +7188,7 @@ RSD,BS,South Eleuthera,Rock Sound
 RSE,AU,New South Wales,Castlecrag
 RSG,BR,Para,Maraba
 RSH,US,Alaska,Russian Mission
-RSI,PA,Colon,Puerto Escondido
+RSI,SA,Tabuk,Hanak
 RSJ,US,,
 RSK,ID,Papua,Ransiki-Papua Island
 RSL,US,Kansas,Russell
@@ -7246,7 +7256,7 @@ RXA,YE,,
 RXE,US,Idaho,Rexburg
 RXS,PH,Western Visayas,Roxas City
 RYB,RU,Jaroslavl,Rybinsk
-RYG,NO,Østfold,Rygge
+RYG,NO,Ostfold,Rygge
 RYK,PK,Punjab,Rahim Yar Khan
 RYL,ZM,,Chirundu
 RYN,FR,Nouvelle-Aquitaine,Royan/Medis
@@ -7269,7 +7279,7 @@ SAF,US,New Mexico,Santa Fe
 SAG,IN,Maharashtra,Shirdi
 SAH,YE,Amanat-Al-Asimah,Sana'a
 SAI,KH,Siem Reap,Siem Reap
-SAK,IS,Northwest,Saudarkrokur
+SAK,IS,Northwest,Sauðárkrókur
 SAL,SV,La Paz,Santa Clara
 SAM,PG,,
 SAN,US,California,San Diego
@@ -7314,7 +7324,7 @@ SBZ,RO,Sibiu,Sibiu
 SCA,CO,Bolivar,Santa Catalina
 SCB,US,Nebraska,Scribner
 SCC,US,Alaska,Deadhorse
-SCD,HN,Comayagua,Sulaco
+SCD,HN,Yoro,Sulaco
 SCE,US,Pennsylvania,State College
 SCF,US,Arizona,Scottsdale
 SCG,AU,Queensland,
@@ -7376,7 +7386,7 @@ SEM,US,Alabama,Selma
 SEN,GB,England,Southend
 SEO,CI,Woroba,Seguela
 SEP,US,Texas,Stephenville
-SEQ,ID,Riau,Bengkalis-Sumatra Island
+SEQ,ID,Central Kalimantan,Buntok
 SER,US,Indiana,Seymour
 SES,US,Alabama,Centreville
 SET,HN,Olancho,San Esteban
@@ -7471,14 +7481,14 @@ SIF,NP,Central Region,Simara
 SIG,US,Puerto Rico,San Juan
 SIH,NP,Far-Western,Silgadi Doti
 SII,MA,Guelmim-Oued-Noun,Sidi Ifni
-SIJ,IS,Northeast,Siglufjordur
+SIJ,IS,Northeast,Siglufjörður
 SIK,US,Missouri,Sikeston
 SIL,PG,Northern Province,Sila Mission
 SIM,PG,Western Highlands,Simbai
 SIN,SG,North East,Singapore
 SIO,AU,Tasmania,
 SIP,UA,Crimea,Simferopol
-SIQ,ID,Riau-Islands,Pasirkuning-Singkep Island
+SIQ,ID,Riau Islands,Pasirkuning-Singkep Island
 SIR,CH,Valais,Sion
 SIS,ZA,Northern Cape,Sishen
 SIT,US,Alaska,Sitka
@@ -7518,7 +7528,7 @@ SKA,US,Washington,Spokane
 SKB,KN,Saint-George-Basseterre,Basseterre
 SKC,PG,Western Province,Suki
 SKD,UZ,,Samarkand
-SKE,NO,Telemark,Geiteryggen
+SKE,NO,Telemark,Skien
 SKF,US,Texas,San Antonio
 SKG,GR,Central Macedonia,Thessaloniki
 SKH,NP,Mid-Western,Surkhet
@@ -7558,7 +7568,7 @@ SLO,US,Illinois,Salem
 SLP,MX,San Luis Potosi,San Luis Potosi
 SLQ,US,Alaska,Sleetmute
 SLR,US,Texas,Sulphur Springs
-SLS,BG,Razgrad,Silistra
+SLS,BG,Silistra,Silistra
 SLT,US,Colorado,Salida
 SLU,LC,Castries,Castries
 SLV,IN,Himachal Pradesh,
@@ -7674,7 +7684,7 @@ SQC,AU,Western Australia,
 SQD,CN,Jiangxi,Shangrao
 SQE,CO,Lima,San Luis
 SQF,CO,,
-SQG,ID,,Sintang-Borneo Island
+SQG,ID,Sarawak,Simanggang
 SQH,VN,Sơn-La,Son-La
 SQI,US,Illinois,Sterling/Rockfalls
 SQJ,CN,Fujian,Sanming
@@ -7847,7 +7857,7 @@ SWY,MY,Perak,Sitiawan
 SXA,PG,Morobe,Finschhafen
 SXB,FR,Grand Est,Strasbourg
 SXC,US,,
-SXE,AU,Victoria,
+SXE,AU,Victoria,West Sale
 SXF,DE,Brandenburg,Schonefeld
 SXG,ZM,Western,Senanga
 SXH,PG,,
@@ -7863,7 +7873,7 @@ SXQ,US,Alaska,Soldotna
 SXR,IN,Jammu and Kashmir,Srinagar
 SXS,MY,Sabah,Sahabat
 SXT,MY,Pahang,Taman Negara
-SXU,ET,,Soddu
+SXU,ET,"Southern Nations, Nationalities, and People's Region",Boditi
 SXV,IN,Tamil Nadu,
 SXW,PG,,
 SXX,BR,Pará,Sao Felix Do Xingu
@@ -7873,12 +7883,12 @@ SYA,US,Alaska,Shemya
 SYB,US,,
 SYC,PE,Madre-de-Dios,Shiringayoc
 SYD,AU,New South Wales,Sydney
-SYE,YE,Sa‘dah,Sadah
+SYE,YE,Sa'dah,Saqayn
 SYF,CA,,
 SYH,NP,Eastern Region,Namche Bazar
 SYI,US,Tennessee,Shelbyville
 SYJ,IR,Kerman,
-SYK,IS,West,Stykkisholmur
+SYK,IS,West,Stykkishólmur
 SYL,US,California,San Miguel
 SYM,CN,Yunnan,Simao
 SYN,US,Minnesota,Stanton
@@ -7900,7 +7910,7 @@ SZC,CR,,
 SZE,ET,Afar,Dubti
 SZF,TR,Samsun,Samsun
 SZG,AT,Salzburg,Salzburg
-SZH,ID,East Kalimantan,Samboja
+SZH,CN,Shanxi,Shuozhou
 SZI,KZ,East Kazakhstan,Zaysan
 SZJ,CU,Isla-de-la-Juventud,Isla de la Juventud
 SZK,ZA,Mpumalanga,Skukuza
@@ -8007,7 +8017,7 @@ TDN,AU,Western Australia,
 TDO,US,Washington,Toledo
 TDP,PE,Loreto,Corrientes
 TDR,AU,Queensland,
-TDS,PG,,
+TDS,PG,Western Province,Sasereme
 TDT,ZA,Mpumalanga,Welverdiend
 TDV,MG,,Tanandava
 TDW,US,Texas,Amarillo
@@ -8035,7 +8045,7 @@ TET,MZ,Tete,Tete
 TEU,NZ,Southland,
 TEV,ES,Aragón,Teruel
 TEX,US,Colorado,Telluride
-TEY,IS,Westfjords,Tingeyri
+TEY,IS,Westfjords,Þingeyri
 TEZ,IN,Assam,
 TFB,PG,,
 TFF,BR,Amazonas,Tefe
@@ -8068,7 +8078,7 @@ TGR,DZ,Ouargla,Touggourt
 TGS,MZ,Gaza,Chokwe
 TGT,TZ,Tanga,Tanga
 TGU,HN,Francisco-Morazan,Tegucigalpa
-TGV,BG,Razgrad,Targovishte
+TGV,BG,Plovdiv,Suedinenie
 TGZ,MX,Chiapas,Tuxtla Gutierrez
 THA,US,Tennessee,Tullahoma
 THB,LS,Thaba-Tseka,Thaba-Tseka
@@ -8082,7 +8092,7 @@ THK,LA,Nakhon-Phanom,Thakhek
 THL,MM,Shan,Tachileik
 THM,US,Montana,Thompson Falls
 THN,SE,Vaestra-Gotaland,Trollhattan
-THO,IS,Northeast,Thorshofn
+THO,IS,Northeast,Þórshöfn
 THP,US,Wyoming,Thermopolis
 THQ,CN,Gansu,Tianshui
 THR,IR,Tehran,Tehran
@@ -8120,7 +8130,7 @@ TIX,US,Florida,Titusville
 TIY,MR,Tagant,Tidjikja
 TIZ,PG,Southern Highlands,Tari
 TJA,BO,Tarija,Tarija
-TJB,ID,Riau-Islands,Karinmunbesar Island
+TJB,ID,Riau Islands,Karinmunbesar Island
 TJC,PA,Guna Yala,Nargana
 TJG,ID,South Kalimantan,Tanta-Tabalong-Borneo Island
 TJH,JP,Hyogo,Tajima
@@ -8175,7 +8185,7 @@ TLM,DZ,Tlemcen,Tlemcen
 TLN,FR,Provence-Alpes-Cote-d'Azur,Toulon/Hyeres/Le Palyvestre
 TLO,PG,,
 TLP,PG,,
-TLQ,CN,Xinjiang Uygur Zizhiqu,Laochenglu
+TLQ,CN,Xinjiang,Turpan
 TLR,US,California,Tulare
 TLS,FR,Occitanie,Toulouse/Blagnac
 TLT,US,Alaska,Tuluksak
@@ -8190,7 +8200,7 @@ TMB,US,Florida,Miami
 TMC,ID,East Nusa Tenggara,Waikabubak-Sumba Island
 TMD,MR,Hodh-ech-Chargui,Timbedra
 TME,CO,Arauca,Tame
-TMF,MV,Thaa Atholhu,Veymandoo
+TMF,MV,Thaa,Thimarafushi
 TMG,MY,Sabah,Tomanggong
 TMH,ID,Papua,Tanah Merah-Papua Island
 TMI,NP,Eastern Region,Tumling Tar
@@ -8219,7 +8229,7 @@ TNF,FR,Ile-de-France,Toussus-le-Noble
 TNG,MA,,Tangier
 TNH,CN,Jilin,Tonghua
 TNI,IN,Madhya Pradesh,
-TNJ,ID,Riau-Islands,Tanjung Pinang-Bintan Island
+TNJ,ID,Riau Islands,Tanjung Pinang-Bintan Island
 TNK,US,Alaska,Tununak
 TNL,UA,Ternopilska oblast,Ternopil
 TNM,AQ,,Isla Rey Jorge
@@ -8234,7 +8244,7 @@ TNU,US,Iowa,Newton
 TNV,KI,Line-Islands,Tabuaeran Island
 TNW,EC,,
 TNX,KH,Stung Treng,Stung Treng
-TNZ,MN,Dzabkhan,Tosontsengel
+TNZ,MN,Zavkhan,Tosontsengel
 TOA,US,California,Torrance
 TOB,LY,,Tobruk
 TOC,US,Georgia,Toccoa
@@ -8353,7 +8363,7 @@ TTM,CO,Casanare,Pore
 TTN,US,New Jersey,Trenton
 TTO,US,South Dakota,Britton
 TTQ,CR,Limon,Roxana
-TTR,ID,South Sulawesi,Tanah Toraja-Celebes Island
+TTR,ID,South Sulawesi,Tangratte
 TTS,MG,,Tsaratanana
 TTT,TW,Taiwan,Taitung City
 TTU,MA,,
@@ -8452,7 +8462,7 @@ UAP,PF,Iles-Marquises,Ua Pou
 UAQ,AR,San Juan,San Juan
 UAR,MA,,Bouarfa
 UAS,KE,,Samburu South
-UAX,GT,Peten,Uaxactun
+UAX,GT,Peten,San Jose
 UBA,BR,Minas Gerais,Uberaba
 UBB,AU,Queensland,Mabuiag Island
 UBI,PG,Bougainville,Panguna
@@ -8477,7 +8487,7 @@ UDD,US,California,Palm Springs
 UDE,NL,North Brabant,Uden
 UDI,BR,Minas Gerais,Uberlandia
 UDJ,UA,Zakarpatska oblast,Uzhhorod
-UDN,IT,Friuli Venezia Giulia,Udine
+UDN,IT,Friuli Venezia Giulia,Pasian di Prato
 UDO,LA,Nghe An,Muong Xen
 UDR,IN,Rajasthan,Udaipur
 UEE,AU,Tasmania,
@@ -8704,7 +8714,7 @@ VCS,VN,Ba-Rịa-Vung-Tau,Con Ong
 VCT,US,Texas,Victoria
 VCV,US,California,Victorville
 VDA,IL,Southern District,Eilat
-VDB,NO,Oppland,
+VDB,NO,Oppland,Fagernes
 VDC,BR,Bahia,Vitória da Conquista
 VDE,ES,Canary-Islands,El Hierro Island
 VDH,VN,Yen-Bai,Dong Hoi
@@ -8779,7 +8789,7 @@ VLK,RU,Rostov,
 VLL,ES,Castilla y León,Valladolid
 VLM,BO,Tarija,Villamontes
 VLN,VE,Carabobo,Valencia
-VLO,US,California,Vallejo
+VLO,AL,Vlorë,Vlora
 VLP,BR,Mato Grosso do Sul,Vila Rica
 VLR,CL,Atacama,Vallenar
 VLS,VU,Shefa,Valesdir
@@ -8789,7 +8799,7 @@ VLY,GB,Wales,Valley
 VME,AR,San Luis,Villa Reynolds
 VMI,PY,Mato Grosso do Sul,Porto Murtinho
 VMU,PG,Gulf,Baimuru
-VNA,LA,Salavan,Saravane
+VNA,LA,Salavan,Salavan
 VNC,US,Florida,Venice
 VND,MG,Atsimo-Atsinanana,Vangaindrano
 VNE,FR,Brittany,Vannes/Meucon
@@ -8810,7 +8820,7 @@ VOT,BR,São Paulo,Votuporanga
 VOZ,RU,Voronezj,Voronezh
 VPE,AO,Cunene,Ngiva
 VPG,KE,Kilifi,Takaungu
-VPN,IS,East,Vopnafjordur
+VPN,IS,East,Vopnafjörður
 VPS,US,Florida,Valparaiso/Destin-Ft Walton Beach
 VPY,MZ,Manica,Chimoio
 VPZ,US,Indiana,Valparaiso
@@ -8892,7 +8902,7 @@ WAZ,AU,Queensland,
 WBA,ID,Maluku,Seram Island
 WBB,US,Alaska,Stebbins
 WBC,PG,,
-WBD,MG,,Befandriana
+WBD,MG,,
 WBE,MG,Sofia,Bealanana
 WBG,DE,Schleswig-Holstein,
 WBI,US,,
@@ -8915,7 +8925,7 @@ WDH,NA,Khomas,Windhoek
 WDI,AU,Queensland,
 WDN,US,,
 WDR,US,Georgia,Winder
-WDS,CN,Hebei,Luancheng
+WDS,CN,Hubei,Shiyan
 WDY,US,Alaska,Kodiak
 WEA,US,Texas,Weatherford
 WED,PG,,
@@ -9002,10 +9012,10 @@ WME,AU,Western Australia,
 WMH,US,Arkansas,Mountain Home
 WMI,PL,Mazovia,Warsaw
 WMK,US,,
-WML,MG,,Malaimbandy
+WML,MG,,
 WMN,MG,,
 WMO,US,Alaska,White Mountain
-WMP,MG,,Mampikony
+WMP,MG,Betsiboka,Tsaratanana
 WMR,MG,Analanjirofo,Mananara Nord
 WMT,CN,Guizhou,Zunyi
 WMV,MG,Boeny,Ambato Boeny
@@ -9016,6 +9026,7 @@ WND,AU,Western Australia,
 WNE,GA,Ogooue-Maritime,Omboue
 WNH,CN,Yunnan,Wenshan City
 WNI,ID,Sulawesi Tenggara,Katabu
+WNJ,CN,Guizhou,Leshan
 WNN,CA,Ontario,Wunnumin Lake
 WNP,PH,Bicol,Naga
 WNR,AU,Queensland,
@@ -9120,6 +9131,7 @@ WXN,CN,Chongqing,Wanxian
 WYA,AU,South Australia,Whyalla
 WYB,US,,
 WYE,SL,Eastern Province,Yengema
+WYK,ID,Lampung,Batu Raja-Sumatra Island
 WYN,AU,Western Australia,
 WYS,US,Montana,West Yellowstone
 WZA,GH,,Wa
@@ -9219,7 +9231,7 @@ XRH,AU,New South Wales,Richmond
 XRQ,CN,Inner Mongolia,Hulun
 XRR,CA,Yukon,Ross River
 XRY,ES,Andalucía,Jerez de la Forntera
-XSB,AE,,
+XSB,AE,Abu Dhabi,Sir Bani Yas
 XSC,TC,,
 XSD,US,Nevada,Tonopah
 XSE,BF,Sahel,Sebba
@@ -9239,7 +9251,7 @@ XWZ,SE,Soedermanland,Nykoping
 XXK,SE,Soedermanland,Katrineholm
 XXN,SA,Ar-Riyaḑ,Riyadh
 XYA,SB,,Yandina
-XYE,MM,Mon,Ye
+XYE,MM,Kanchanaburi,Sangkhla Buri
 XYP,SE,,
 XYR,PG,Sandaun,Yellow River Mission
 XZA,BF,,Zabre
@@ -9790,7 +9802,7 @@ ZER,IN,Arunachal Pradesh,
 ZFA,CA,Yukon,Faro
 ZFB,CA,,
 ZFD,CA,Saskatchewan,Fond-Du-Lac
-ZFL,CA,,
+ZFL,CN,Xinjiang,Zhaosu
 ZFM,CA,Northwest Territories,Fort Mcpherson
 ZFN,CA,Northwest Territories,Tulita
 ZFU,BR,Sao Paulo,Aruja
@@ -9806,7 +9818,7 @@ ZGU,VU,Torba,Gaua Island
 ZGY,MY,Kedah,Gurun
 ZHA,CN,Guangdong,Zhanjiang
 ZHI,CH,Solothurn,
-ZHM,BD,Sylhet,Shamshernagar
+ZHM,BD,Tripura,Kailashahar
 ZHP,CA,Alberta,High Prairie
 ZHY,CN,Ningxia Hui Autonomous Region,Zhongwei
 ZHZ,DE,Sachsen-Anhalt,Oppin
@@ -9867,7 +9879,7 @@ ZRM,ID,Papua,Sarmi-Papua Island
 ZSA,BS,San Salvador,San Salvador
 ZSE,RE,Reunion,St Pierre
 ZSJ,CA,Ontario,Sandy Lake
-ZSP,CA,Quebec,Saint-Antonin
+ZSP,CN,Hubei,Shiyan
 ZSS,CI,,Sassandra
 ZST,CA,British Columbia,Stewart
 ZSW,CA,British Columbia,Prince Rupert
@@ -9894,7 +9906,7 @@ ZYD,PT,Liaoning,Langtou
 ZYF,PT,Faro,Faro
 ZYI,CN,Guizhou,Zunyi
 ZYL,BD,Sylhet,Sylhet
-ZZE,AZ,Zangilan,Zangilan
+ZZE,AZ,Zəngilan,Zangilan
 ZZN,NO,Oslo,Oslo
 ZZO,RU,Sakhalin,Tymovskoye
 ZZU,MW,Northern Region,Mzuzu
