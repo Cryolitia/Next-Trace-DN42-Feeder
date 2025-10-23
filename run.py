@@ -86,6 +86,8 @@ if __name__ == "__main__":
             logger.warning(f"No inetnum found for route {cidr}")
     logger.info("Built {} entries".format(len(dn42_df)))
 
+    dn42_df.sort_values(by=['ASN', 'CIDR'], inplace=True)
+
     logger.info("Writing genfeed.csv...")
     os.chdir("..")
     pandas.DataFrame.to_csv(dn42_df, "geofeed.csv", index=False, header=False)
@@ -101,22 +103,6 @@ if __name__ == "__main__":
             'city': [data['city']],
         })], ignore_index=True)
     logger.info("Parsed {} IATA codes from github.com/mborsetti/airportsdata".format(len(iata_df)))
-
-    git_clone_or_pull("https://github.com/ip2location/ip2location-iata-icao", "ip2location-iata-icao")
-    iata_airports2 = pandas.read_csv("iata-icao.csv")
-    for _, row in iata_airports2.iterrows():
-        i = 0
-        code = row['iata']
-        if code not in iata_df['code'].values:
-            iata_df = pandas.concat([iata_df, pandas.DataFrame({
-                'code': [code],
-                'country': [row['country_code']],
-                'state': [''],
-                'city': [row['region_name']],
-            })], ignore_index=True)
-            i += 1
-    os.chdir("..")
-    logger.info("Added {} IATA codes from github.com/ip2location/ip2location-iata-icao".format(i))
 
     git_clone_or_pull("https://github.com/lxndrblz/Airports", "Airports")
     iata_airports3 = pandas.read_csv("airports.csv")
@@ -145,6 +131,8 @@ if __name__ == "__main__":
             i += 1
     os.chdir("..")
     logger.info("Added {} IATA codes from github.com/lxndrblz/Airports".format(i))
+
+    iata_df.sort_values(by='code', inplace=True)
 
     logger.info("Writing ptr.csv...")
     pandas.DataFrame.to_csv(iata_df, "ptr.csv", index=False, header=False)
